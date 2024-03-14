@@ -3,5 +3,5 @@
 #if ZZZ
 ABCD
 #else
-abcd
+abcd...wxyz
 #endif
